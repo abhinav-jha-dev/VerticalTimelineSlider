@@ -12,3 +12,6 @@ To setup replace the images as you have required for every step in the slider.
 # Frameworks used:
 1. Jquery
 2. Scrollmagic
+
+# Visit for demo:
+https://abhinav2127.github.io/VerticalTimelineSlider/
